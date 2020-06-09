@@ -1,0 +1,2 @@
+# cfrSpringCloudConfigDemo
+SpringCloudConfig配置中心从git仓库读取配置
